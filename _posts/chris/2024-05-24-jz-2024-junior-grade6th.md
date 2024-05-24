@@ -38,13 +38,19 @@ tags:
 
 ### 样例输入 
 
+```
 2
 1 2
 4 3
+```
+
+
 
 ### 样例输出 
 
+```
 1
+```
 
 ### 数据范围限制
 
@@ -58,31 +64,7 @@ tags:
 　　小X取走4，小Y取走3，小X不取，小Y不取，游戏结束。4-3=1
 
 ```c
-#include<bits/stdc++.h>
-using namespace std;
-int m,n,x[1000001],y[1000001],z[1000001],f1,f2,l;
-int main()
-{
-	freopen("game.in","r",stdin);
-	freopen("game.out","w",stdout);
-	scanf("%d",&n);
-	for(int i=1;i<=n;i++)
-	{
-		scanf("%d%d",&x[i],&y[i]);
-		if(x[i]>y[i])
-		{
-			z[++l]+=x[i];
-			z[++l]+=y[i];
-		}	
-	}
-	sort(z+1,z+l+1);
-	for(int i=1;i<=l/2;i++)
-	{
-		f1+=z[i*2];
-		f2+=z[i*2-1];
-	}
-	printf("%d",f1-f2);
-}
+code
 ```
 
 # 第二题：小X与队列 (queue)
@@ -112,12 +94,18 @@ int main()
 
 ### 样例输入 
 
+```
 4 3
 2 3 2
+```
 
 ### 样例输出 
 
+```
 2 3 1 4
+```
+
+
 
 ### 数据范围限制
 
@@ -136,30 +124,7 @@ int main()
 
 ```c
 #include<bits/stdc++.h>
-using namespace std;
-int b[1000001],a[1000001];
-int main()
-{
-	int n,m,k;
-	freopen("queue.in","r",stdin);
-	freopen("queue.out","w",stdout);
-	cin>>n>>m;
-	for(int i=1;i<=m;i++)
-	cin>>b[i];
-	for(int i=m;i>=1;i--)
-	{
-		if(!a[b[i]])
-		{
-			a[b[i]]=1;
-			cout<<b[i]<<" ";
-		}
-	}
-	for(int i=1;i<=n;i++)
-	{
-		if(!a[i])
-		cout<<i<<" ";
-	}
-}
+
 ```
 
 # 第三题：小X分砖块（brick）
@@ -192,27 +157,43 @@ int main()
 ### 样例输入 
 
 样例输入1
+```
 3
 1 1
 3 0
 2 1
+```
+
 样例输入2
+
+```
 4
 3 0
 3 1
 9 0
 1 1
+```
+
+
 
 ### 样例输出 
 
 样例输出1
 
+```
 2
+```
+
+
 样例输出2
 
+```
 3
+```
 
-### 数据范围限制
+
+
+数据范围限制
 
 对于 30%的数据，N=1。
 对于 60%的数据，所有 Ki 均相等。
@@ -220,40 +201,7 @@ int main()
 
 ```c
 #include<bits/stdc++.h>
-using namespace std;
-vector<int> a;
-vector<int> b;
-int main()
-{
-    int n,ans=0,w,e;
-    cin>>n;
-    long long s[2]={0};
-    int t[2]={0};
-    for(int i=0;i<n;i++)
-    {
-        cin>>w>>e;
-        a.push_back(w);
-        b.push_back(e);
-        s[b[i]]+=a[i];
-    }
-    if(!s[0]||!s[1])
-    {
-        cout<<(s[0]+s[1])<<endl;
-        return 0;
-    }
-    for(int i=0;i<n;i++)
-    {
-        int x=b[i],y=b[i]^1;
-        if(s[y]&&!(s[x]*t[y]%s[y]))
-        {
-            int z=s[x]*t[y]/s[y]-t[x];
-            if(z>=1&&z<=a[i]) ans++;
-        }
-        t[x]+=a[i];
-    }
-    cout<<ans;
-    return 0;
-}
+
 ```
 
 # 第四题：小X与神牛 (hamming)
@@ -284,11 +232,19 @@ int main()
 
 ### 样例输入
 
+```
 3 5 3
+```
+
+
 
 ### 样例输出
 
+```
 0 7 25
+```
+
+
 
 ### 数据范围限制
 
@@ -312,60 +268,6 @@ int main()
 
 ```c
 #include<bits/stdc++.h>
-using namespace std;
-long long n,k[1000001],c[1000001],x=0,y=0,ans=0;
-int main()
-{
-	freopen("brick.in","r",stdin);
-	freopen("brick.out","w",stdout);
-	cin>>n;
-	for(long long i=1;i<=n;++i)
-	{
-		cin>>k[i]>>c[i];
-		if(c[i]==0) 
-        x+=k[i];
-		if(c[i]==1) 
-        y+=k[i];
-	}
-	if(x==0||y==0)
-	{
-		cout<<x+y;
-		return 0;
-	} 
-	int u=min(x,y);
-	for(int i=u/2;i>=2;--i)
-	{
-		if(x%i==0&&y%i==0)
-		{
-			x/=i;
-			y/=i;
-		}
-	}
-	int a=0,b=0;
-	for(long long i=1;i<=n;++i)
-	{
-		if(!c[i])
-		{
-			if(b*x%y==0)
-			{
-				int z=b*x/y-a;
-				if(z>=1&&z<=k[i]) 
-                ans++;
-			 }
-			 a+=k[i];
-		}
-		if(c[i])
-		{
-			if(a*y%x==0)
-			{
-				int z=a*y/x-b;
-				if(z>=1&&z<=k[i]) 
-                ans++;
-			} 
-			b+=k[i];
-	 	}
-	}
-	cout<<ans;
-}
+
 ```
 
