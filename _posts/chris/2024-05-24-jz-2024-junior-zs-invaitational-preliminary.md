@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "中山2023邀请赛"
+title:      "中山2023邀请赛-preliminary"
 subtitle:   "刷题"
 date:       2024-05-31 17:00:00
 author:     "Sage"
