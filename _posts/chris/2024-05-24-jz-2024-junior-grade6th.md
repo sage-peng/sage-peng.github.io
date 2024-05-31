@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "jz-2024-junior-grade6th"
+title:      "20240323中山纪念中学六年级信息学测试赛6考试总结"
 subtitle:   "OJ刷题"
 date:       2024-05-24 17:00:00
 author:     "Sage"
@@ -13,7 +13,11 @@ tags:
     - OJ
 ---
 
+
+
 # 第一题：小X与游戏 (game)
+
+09_Chris\01_jizhong\01_xiaox_game.cpp
 
 (Input: game.in, Output: game.out)
 时间限制: 1 s 空间限制: 256 MB
@@ -65,9 +69,13 @@ tags:
 
 ```c
 code
+    freopen("hamming.in", "r", stdin);
+	freopen("hamming.out", "w", stdout);
 ```
 
 # 第二题：小X与队列 (queue)
+
+09_Chris\01_jizhong\02_xiaox_queue.cpp
 
 (Input: queue.in, Output: queue.out)
 时间限制: 1 s 空间限制: 256 MB
