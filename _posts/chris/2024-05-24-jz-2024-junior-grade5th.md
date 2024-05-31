@@ -10,7 +10,8 @@ hidden: false
 catalog: true
 published: true
 tags:
-    - OJ
+    - OJ	
+    - chris
 ---
 
 # 第一题：挑战（challenge）
