@@ -6,7 +6,7 @@ date:       2024-05-31 17:00:00
 author:     "Sage"
 header-img: ""
 header-style: text
-hidden: true
+hidden: false
 catalog: true
 published: true
 tags:
