@@ -14,4 +14,7 @@ tags:
 
 ---
 
-![image-20240531111617393](https://mmbiz.qpic.cn/mmbiz_jpg/pkc1TPJBmLOneNG0x7tibgvMMD9Fm84yGvic9kL5KTYDkVFFzibdiblZvbRLiaTSjHTcNNPn259n6pUhDGlnFS7E00Q/640?wx_fmt=jpeg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1)
+![问题1](https://github.com/sage-peng/sage-peng.github.io/blob/main/img/image-20240531111617393.png?raw=true)
+
+![image-20240531112854842](https://github.com/sage-peng/sage-peng.github.io/blob/main/img/image-20240531112854842.png?raw=true)
+
