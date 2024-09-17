@@ -16,12 +16,15 @@ tags:
 
 # Back to School
 
-返校
-With the end of summer vacation, we arewelcoming the start of the school year! I amvery happy to see my friends and teachersagain. We are as happy as a group of long-lostfriends. We shared our happy experiences andemotions during the summer vacation witheach other. Sitting in the new classroom,holding a new book, I feel incredibly excitedBack to school is the starting point of a newiourney, let's explore with our hearts andmuster the courage to pursue our dreams.Let's greet this challenging new semester witha fresh attitude together!
+- 返校
+
+​	With the end of summer vacation, we are welcoming the start of the school year! I am very happy to see my friends and teachers again. We are as happy as a group of long-lostfriends. We shared our happy experiences and emotions during the summer vacation with each other. Sitting in the new classroom,holding a new book, I feel incredibly excited .Back to school is the starting point of a new journey, let's explore with our hearts and muster the courage to pursue our dreams.Let's greet this challenging new semester with a fresh attitude together!
 
 # Hopes and Efforts forthe NewTerm
 
-新学期的希望与奋斗
-Every new beginning holds the promise ofgrowth and learning. As we step into a newterm, l am full of hope and excitement for thefuture. This term,l aim to learn more, performbetter, and strive harder.
-In order to achieve my goals, l plan to studyregularly and finish my homework on time.will also take a more active part in variousactivities, and use my free time to developmore skills and make more friends.
-As the saying goes, 'Where there's a will,there's a way.'l will spare no effort to reachmy goals, and l am confident that this will be aterm full of rewards.
+- 新学期的希望与奋斗
+  	
+
+​	Every new beginning holds the promise of growth and learning. As we step into a new term, l am full of hope and excitement for the future. This term,l aim to learn more, perform better, and strive harder.
+​	In order to achieve my goals, l plan to study regularly and finish my homework on time.I will also take a more active part in various activities, and use my free time to develop more skills and make more friends.
+​	As the saying goes, 'Where there's a will,there's a way.'l will spare no effort to reach my goals, and l am confident that this will be a term full of rewards.
