@@ -28,3 +28,11 @@ tags:
 ​	Every new beginning holds the promise of growth and learning. As we step into a new term, l am full of hope and excitement for the future. This term,l aim to learn more, perform better, and strive harder.
 ​	In order to achieve my goals, l plan to study regularly and finish my homework on time.I will also take a more active part in various activities, and use my free time to develop more skills and make more friends.
 ​	As the saying goes, 'Where there's a will,there's a way.'l will spare no effort to reach my goals, and l am confident that this will be a term full of rewards.
+
+# Mid-Autumn Festival
+
+- 中秋节
+
+​	The Mid-Autumn Festival is a traditional Chinese holiday celebrated on the 15th day of the 8th lunar month. Families gather to enioy the bright moon and eat mooncakes.During the festival, people share stories and enjoy special foods. Children play outside under the moon. Everyone feels happy and relaxed.
+
+​	To sum up, the Mid-Autumn Festival is a wonderful time to be with family and celebrate Chinese traditions.It reminds us of the importance of family and the beauty of nature.
