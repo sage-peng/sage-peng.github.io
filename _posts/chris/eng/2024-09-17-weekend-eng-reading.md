@@ -46,3 +46,8 @@ As people often say,'Times are quiet and peaceful.'However, it is because some o
 On this day, from grand parades to colourful fireworks, every corner of the nation is filled with joy. People raise the national flag, and families gather to celebrate together.
 
 As we join in these celebrations, may we never forget our history and forge ahead with determination. May we live in prosperous times and make the most of every moment.
+
+___
+
+
+
