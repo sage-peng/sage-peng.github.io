@@ -36,3 +36,13 @@ tags:
 ​	The Mid-Autumn Festival is a traditional Chinese holiday celebrated on the 15th day of the 8th lunar month. Families gather to enioy the bright moon and eat mooncakes.During the festival, people share stories and enjoy special foods. Children play outside under the moon. Everyone feels happy and relaxed.
 
 ​	To sum up, the Mid-Autumn Festival is a wonderful time to be with family and celebrate Chinese traditions.It reminds us of the importance of family and the beauty of nature.
+
+# National Day
+
+- 国庆节
+
+As people often say,'Times are quiet and peaceful.'However, it is because some one carries the weight forward for us, ensuring that we live a better life. As we celebrate National Day on October 1st,we should remember and honour those who helped build our country.
+
+On this day, from grand parades to colourful fireworks, every corner of the nation is filled with joy. People raise the national flag, and families gather to celebrate together.
+
+As we join in these celebrations, may we never forget our history and forge ahead with determination. May we live in prosperous times and make the most of every moment.
