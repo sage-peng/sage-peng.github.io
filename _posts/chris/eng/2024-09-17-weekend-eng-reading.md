@@ -47,7 +47,16 @@ On this day, from grand parades to colourful fireworks, every corner of the nati
 
 As we join in these celebrations, may we never forget our history and forge ahead with determination. May we live in prosperous times and make the most of every moment.
 
-___
 
 
+# How to Build confidence
 
+- 如何建立自信
+
+Confdence is important. it helps us succeed in life. To be confdent, frst believe in yourself.Tell yourself, "l can do it." Secondly, set small goals and work hard to achieve them. Thirdly,practice new skills, such as public speaking ,singing, or playing sports. Fourthly, stay with positive people who will support and encourage you. Lastly, don't be afraid of failure. Every failure is a chance to learn. Confdence is built step by step. Keep going, and you will become confdent.
+
+# Good Habits
+
+- 好习惯
+
+Good habits help us every day.I make my bed every morning, which keeps my room clean.I always say "please" and "thank you."It makes me polite.l try to eat vegetables and fruits because they are good for my health.I listen carefully in class, which helps me learn more.I always review what i learn in class,and it helps me remember better.I also preview the lessons before they are taught.lt makes learning easier.I ask questions in class, which helps me understand more. Good habits are like friends that help me grow.
