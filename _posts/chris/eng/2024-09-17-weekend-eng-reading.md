@@ -14,13 +14,13 @@ tags:
     - chris
 ---
 
-# Back to School
+# 第1周：Back to School
 
 - 返校
 
 ​	With the end of summer vacation, we are welcoming the start of the school year! I am very happy to see my friends and teachers again. We are as happy as a group of long-lostfriends. We shared our happy experiences and emotions during the summer vacation with each other. Sitting in the new classroom,holding a new book, I feel incredibly excited .Back to school is the starting point of a new journey, let's explore with our hearts and muster the courage to pursue our dreams.Let's greet this challenging new semester with a fresh attitude together!
 
-# Hopes and Efforts forthe NewTerm
+# 第2周：Hopes and Efforts forthe NewTerm
 
 - 新学期的希望与奋斗
   	
@@ -29,7 +29,7 @@ tags:
 ​	In order to achieve my goals, l plan to study regularly and finish my homework on time.I will also take a more active part in various activities, and use my free time to develop more skills and make more friends.
 ​	As the saying goes, 'Where there's a will,there's a way.'l will spare no effort to reach my goals, and l am confident that this will be a term full of rewards.
 
-# Mid-Autumn Festival
+# 第3周：Mid-Autumn Festival
 
 - 中秋节
 
@@ -37,7 +37,7 @@ tags:
 
 ​	To sum up, the Mid-Autumn Festival is a wonderful time to be with family and celebrate Chinese traditions.It reminds us of the importance of family and the beauty of nature.
 
-# National Day
+# 第4周：National Day
 
 - 国庆节
 
@@ -49,13 +49,13 @@ As we join in these celebrations, may we never forget our history and forge ahea
 
 
 
-# How to Build confidence
+# 第5周：How to Build confidence
 
 - 如何建立自信
 
 Confdence is important. it helps us succeed in life. To be confdent, frst believe in yourself.Tell yourself, "l can do it." Secondly, set small goals and work hard to achieve them. Thirdly,practice new skills, such as public speaking ,singing, or playing sports. Fourthly, stay with positive people who will support and encourage you. Lastly, don't be afraid of failure. Every failure is a chance to learn. Confdence is built step by step. Keep going, and you will become confdent.
 
-# Good Habits
+# 第6周：Good Habits
 
 - 好习惯
 
