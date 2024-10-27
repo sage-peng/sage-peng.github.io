@@ -53,7 +53,7 @@ As we join in these celebrations, may we never forget our history and forge ahea
 
 - 如何建立自信
 
-Confdence is important. it helps us succeed in life. To be confdent, frst believe in yourself.Tell yourself, "l can do it." Secondly, set small goals and work hard to achieve them. Thirdly,practice new skills, such as public speaking ,singing, or playing sports. Fourthly, stay with positive people who will support and encourage you. Lastly, don't be afraid of failure. Every failure is a chance to learn. Confdence is built step by step. Keep going, and you will become confdent.
+Confidence is important. it helps us succeed in life. To be confident, fristly believe in yourself.Tell yourself, "l can do it." Secondly, set small goals and work hard to achieve them. Thirdly,practice new skills, such as public speaking ,singing, or playing sports. Fourthly, stay with positive people who will support and encourage you. Lastly, don't be afraid of failure. Every failure is a chance to learn. Confidence is built step by step. Keep going, and you will become confident.
 
 # 第6周：Good Habits
 
