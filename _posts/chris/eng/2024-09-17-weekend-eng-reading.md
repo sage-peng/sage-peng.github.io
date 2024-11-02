@@ -73,4 +73,4 @@ Good habits help us every day.I make my bed every morning, which keeps my room c
 
 - 团队协作
 
-Teamwork is very important in school and in life. lt means working togetherto achieve a goal.in school, we often do group projects.When we work as a team,we share ideas and help each other.Everyone has different skills and that makes our team stronger.For example,some students are good at drawing,while others are good at writing. By working together, we can create great projects.Teamwork also teaches us to listen to others.lt makes us feel happy.Teamwork makes everything possible.
+Teamwork is very important in school and in life. lt means working together to achieve a goal.in school, we often do group projects.When we work as a team,we share ideas and help each other.Everyone has different skills and that makes our team stronger.For example,some students are good at drawing,while others are good at writing. By working together, we can create great projects.Teamwork also teaches us to listen to others.lt makes us feel happy.Teamwork makes everything possible.
