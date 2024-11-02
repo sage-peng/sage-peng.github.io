@@ -14,6 +14,12 @@ tags:
     - chris
 ---
 
+# starting
+
+Hello everyone, my name is ChrisPang. I am 12 years old and from Class 22.Grade 7.  It's great honor to deliver my speech here. today my topic is [topic]，Let's get starting!
+
+
+
 # 第1周：Back to School
 
 - 返校
