@@ -60,3 +60,11 @@ Confidence is important. it helps us succeed in life. To be confident, fristly b
 - 好习惯
 
 Good habits help us every day.I make my bed every morning, which keeps my room clean.I always say "please" and "thank you."It makes me polite.l try to eat vegetables and fruits because they are good for my health.I listen carefully in class, which helps me learn more.I always review what i learn in class,and it helps me remember better.I also preview the lessons before they are taught.lt makes learning easier.I ask questions in class, which helps me understand more. Good habits are like friends that help me grow.
+
+
+
+# 第7周：Teamwork
+
+- 团队协作
+
+Teamwork is very important in school and in life. lt means working togetherto achieve a goal.in school, we often do group projects.When we work as a team,we share ideas and help each other.Everyone has different skills and that makes our team stronger.For example,some students are good at drawing,while others are good at writing. By working together, we can create great projects.Teamwork also teaches us to listen to others.lt makes us feel happy.Teamwork makes everything possible.
