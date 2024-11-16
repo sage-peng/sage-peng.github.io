@@ -82,3 +82,12 @@ Teamwork is very important in school and in life. lt means working together to a
 - 我的一天
 
 Every morning,l wake up early and start a new day. After washing up,l have breakfast, and then i go to school happily. At school,l study very hard, gain a lot of new knowledge, and make many good friends. After school, i do my homework, then have dinner. After dinner, my parents read storybooks to me. From these stories, i learn many lessons. Finally, l get ready for bed, and think about my busy but happy day. l fall asleep quickly.
+
+
+
+# 第9周：Staying Mentally Healthy
+
+- 保持心理健康
+
+As people often say, "A cheerful heart is good medicine." Keeping a positive attitude is key to a healthy life. When facing challenges ,staying optimistic helps us handle stress better and keep a happy mood.
+In my opinion, there are many ways to help us relax. For example, listening to our favourite music, drawing,playing sports,reading a book, doing some gardening or chatting with friends can make us feel relaxed and happy.In conclusion, staying mentally healthy not only makes us feel happy but also helps us deal with the difficulties and challenges of life.
