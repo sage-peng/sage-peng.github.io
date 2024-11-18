@@ -1016,3 +1016,8 @@ int main(){
 
 # 搜索
 
+## 模拟退火（advanced）
+
+### 参考
+
+- [速通模拟退火](https://www.cnblogs.com/autoloop/p/15169642.html)
