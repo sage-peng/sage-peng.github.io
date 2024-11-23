@@ -91,3 +91,11 @@ Every morning,l wake up early and start a new day. After washing up,l have break
 
 As people often say, "A cheerful heart is good medicine." Keeping a positive attitude is key to a healthy life. When facing challenges ,staying optimistic helps us handle stress better and keep a happy mood.
 In my opinion, there are many ways to help us relax. For example, listening to our favourite music, drawing,playing sports,reading a book, doing some gardening or chatting with friends can make us feel relaxed and happy.In conclusion, staying mentally healthy not only makes us feel happy but also helps us deal with the difficulties and challenges of life.
+
+
+
+# 第10周：School is Fun
+
+My school is a wonderful place where l learn a lot of things. We have many subjects like math,science, and art. But my favorite subject is Enqlish. l love to speak and listen to Enqlish words.
+In my Enqlish class, there are 6 students, and we all enjo ylearning toqether. Our teacher, Mrs. Yang, is the best. She makes Enqlish class so much fun. We often listen to English songs and even act out little plays in class.
+I like to be in Enqlish class because it's not just about reading and writing. it's about having fun and using the lanquaqe in a real way.l can't wait to go to school every day and learn more in Enqlish class with Mrs. Yang and my friends.
