@@ -99,3 +99,9 @@ In my opinion, there are many ways to help us relax. For example, listening to o
 My school is a wonderful place where l learn a lot of things. We have many subjects like math,science, and art. But my favorite subject is Enqlish. l love to speak and listen to Enqlish words.
 In my Enqlish class, there are 6 students, and we all enjo ylearning toqether. Our teacher, Mrs. Yang, is the best. She makes Enqlish class so much fun. We often listen to English songs and even act out little plays in class.
 I like to be in Enqlish class because it's not just about reading and writing. it's about having fun and using the lanquaqe in a real way.l can't wait to go to school every day and learn more in Enqlish class with Mrs. Yang and my friends.
+
+
+
+# 第11周：My hometown
+
+My hometown is a beautiful place. lt's full of green trees and flowers. In spring, the flowers bloom and make the air smel sweet.in summer ,we can swim in the river and enjoy the cool water. Autumn brings golden rice fields and fresh fruit. Winter is cold, but we still have fun playing in the snow.My hometown is also famous for its delicious food. My favorite dish is the local noodles. They are soft and tasty, and l always eat a big bowl when i'm at home. l love my hometown very much.
