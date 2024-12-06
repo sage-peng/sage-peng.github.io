@@ -19,6 +19,14 @@ tags:
 
 - [Typora 代码块折叠](https://blog.csdn.net/shisanxiang_/article/details/136006137)
 
+# 公式
+
+## 参考
+
+[文章：波有蛋](https://www.zhihu.com/people/84-58-98-95-62)
+
+[视频：通达信](https://www.bilibili.com/video/BV1gZ4y1g7Xy/?spm_id_from=333.999.0.0)
+
 
 
 # 技术指标
@@ -79,4 +87,41 @@ tags:
   3. 换手续越高，量比越低表示高度控盘，筹码集中
 
      
+
+# 形态
+
+## 跌停板洗盘
+
+![image-20241205201733147](../../img/assets/2024-11-19_invest learn/image-20241205201733147.png)
+
+### 分析
+
+- 在一次涨停后，眼看要突破前期高点，开始主升浪；此时很多散户也想搭上便车，主力在此时选择跌停，有些散户会认为主力在此出货，然后被洗掉，接着主力开始一波主升浪；
+
+### 注意点
+
+- 涨停突破要在低位，那么跌停上车不用再担心连续跌停了；
+
+### 代码
+
+```cmake
+{参数设置}
+N := 20; {近N日的最高价作为比较目标}
+
+{涨停条件}
+ZT_YESTERDAY := (REF(C, 1) / REF(C, 2) - 1 >= 0.098) AND (REF(H, 1) = REF(C, 1)); {昨日涨停}
+
+{突破前期高点}
+HHVHIGH := HHV(H, N); {过去N日内最高价}
+YESTERDAYHHV := REF(HHVHIGH, 2); {昨天之前的N日内最高价}
+BREAKOUT := REF(C, 1) > YESTERDAYHHV; {昨日收盘价突破前一天之前的N天内最高价}
+
+{当天跌停}
+DT_TODAY := (REF(C, 1) / C - 1 >= 0.05) AND (L = C); {今日跌停}
+
+{综合条件}
+(ZT_YESTERDAY AND BREAKOUT) AND DT_TODAY;
+```
+
+ 
 
