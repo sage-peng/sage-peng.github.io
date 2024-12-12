@@ -125,3 +125,28 @@ DT_TODAY := (REF(C, 1) / C - 1 >= 0.05) AND (L = C); {今日跌停}
 
  
 
+## 缩量阴线洗盘
+
+### 分析
+
+- 在一次涨停后，连续缩量下跌，回到起始点；
+
+### 代码
+
+```
+{缩量阴线1}
+N:=2;
+ZT := C / REF(C, 1) > 1.097 AND C=H; 
+ZTND := REF(ZT, N); 
+
+VS := VOL < MA(VOL, 5); 
+FD := EVERY(VS AND C < REF(C, 1), 1);
+
+CS := ABS(C - REF(L, N)) <= REF(H, N) * 0.02; 
+
+
+SELECT: ZTND AND FD AND CS;
+
+20.65*0.02 0.39
+```
+
