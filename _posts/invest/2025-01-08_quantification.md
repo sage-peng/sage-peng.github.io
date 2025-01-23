@@ -29,7 +29,7 @@ tags:
 
 [Python量化交易工程师养成实战-金融高薪领域（13章）](https://shikey.com/2023/02/16/python-quantitative-trading-financial-high-salary-field.html)
 
-[开课吧 后场理工学院-AI与量化投资人才培养计划 001期](https://shikey.com/2023/02/11/backfield-institute-of-technology-ai-and-quantitative-investment-talent-training-program.html)
+[###开课吧 后场理工学院-AI与量化投资人才培养计划 001期](https://shikey.com/2023/02/11/backfield-institute-of-technology-ai-and-quantitative-investment-talent-training-program.html)
 
 [网易云课堂 从零搭建数字货币量化交易系统](https://shikey.com/2022/03/07/build-a-digital-currency-quantitative-trading-system-from-scratch.html)
 
