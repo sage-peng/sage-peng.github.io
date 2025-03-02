@@ -105,3 +105,13 @@ I like to be in Enqlish class because it's not just about reading and writing. i
 # 第11周：My hometown
 
 My hometown is a beautiful place. lt's full of green trees and flowers. In spring, the flowers bloom and make the air smel sweet.in summer ,we can swim in the river and enjoy the cool water. Autumn brings golden rice fields and fresh fruit. Winter is cold, but we still have fun playing in the snow.My hometown is also famous for its delicious food. My favorite dish is the local noodles. They are soft and tasty, and l always eat a big bowl when i'm at home. l love my hometown very much.
+
+# 第12周：Ne Zha 2
+
+In Ne Zha 2, Ne Zha continues his journey as a powerful hero from Chinese mythology. This time, he faces new enemies and bigger challenges. The movie highlights his bravery and determination as he fights to protect the world. With the help of his friends, Ne Zha shows that teamwork and courage are important.
+
+The film is filled with exciting action scenes, beautiful animation, and Chinese culture. It teaches us valuable lessons about friendship, courage, and never giving up. Ne Zha 2 is a great adventure for fans of Chinese legends!
+
+在《哪吒2》中，哪吒继续着他作为中国神话中的强大英雄的旅程。这一次，他面对新的敌人和更大的挑战。电影突显了他在保护世界时所展现的勇敢和决心。在朋友们的帮助下，哪吒展示了团队合作和勇气的重要性。
+
+这部电影充满了激动人心的动作场面、美丽的动画和中国文化。它教会我们关于友谊、勇气以及永不放弃的宝贵课程。《哪吒2》对于喜爱中国传奇的粉丝来说是一场伟大的冒险！
